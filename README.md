@@ -8,9 +8,9 @@
 
 | 小组成员姓名 | 小组成员学号 |                        Github账户名称                        |
 | :----------: | :----------: | :----------------------------------------------------------: |
-|    董大铨    | 201900460054 | [**DaquanDong**]([DaquanDong (github.com)](https://github.com/DaquanDong)) |
-|    吕洪宽    |     2019     |    [**cipeizheng** Ci_pei](https://github.com/cipeizheng)    |
-|    邵鹏翔    |     2018     |     [**2001AlexChen**](https://github.com/2001AlexChen)      |
+|    董大铨    | 201900460054 | [**DaquanDong**]((https://github.com/DaquanDong)) |
+|    吕洪宽    |     2019     |    [**** ]()    |
+|    邵鹏翔    |     2018     |     [****]()      |
 
 ## 项目及完成情况：
 
